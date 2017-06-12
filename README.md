@@ -1,5 +1,5 @@
 # Wox.Plugins.ChuckNorrisFact
-Wox plugin to random Chuck Norris facts from https://api.chucknorris.io/
+Wox plugin to get random Chuck Norris facts from https://api.chucknorris.io/
 ## Keyword
 chuck
 ## Installation:
