@@ -1,0 +1,12 @@
+{
+    "ID":"cfcdffed1eed472caa1e5ac92574d1b2",
+    "ActionKeyword":"chuck",
+    "Name":"ChuckNorrisFact",
+    "Description":"Get Chuck Norris facts",
+    "Author":"DBremen",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/DBremen/Wox.Plugins.GoogleSuggest",
+    "IcoPath":"icons\\chucknorris.png",
+    "ExecuteFileName":"main.py"
+}
